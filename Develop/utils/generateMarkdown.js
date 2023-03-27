@@ -39,9 +39,9 @@ ${data.test}
 ## License 
 ${data.license}
 
-## Contact Me
-Github: ${data.github}
-Email: ${data.email}
+## Questions
+Github: [${data.github}](https://github.com/${data.github})
+Email: [${data.email}](mailto:${data.email})
 `;
 }
 
