@@ -43,7 +43,6 @@ ${renderLicenseSection(data.license)}
 * [Usage](#usage)
 * [Contribution](#contribution)
 * [Test](#test)
-* [License](#license)
 * [Questions](#questions)
 
 ## Description  
